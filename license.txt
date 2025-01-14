@@ -1,11 +1,11 @@
 Model Information:
-* title:	Hosnian prime skyscraper / Star wars
-* source:	https://sketchfab.com/3d-models/hosnian-prime-skyscraper-star-wars-a2f8139dc05e447faa5d319eb5b9038f
-* author:	Artemis (https://sketchfab.com/Artemis26)
+* title:	Game Ready Sun Glasses High Poly
+* source:	https://sketchfab.com/3d-models/game-ready-sun-glasses-high-poly-8d488f34171c4fde8d49400960bb5b69
+* author:	NaicheCrowhurst (https://sketchfab.com/NaicheCrowhurst)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Hosnian prime skyscraper / Star wars" (https://sketchfab.com/3d-models/hosnian-prime-skyscraper-star-wars-a2f8139dc05e447faa5d319eb5b9038f) by Artemis (https://sketchfab.com/Artemis26) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Game Ready Sun Glasses High Poly" (https://sketchfab.com/3d-models/game-ready-sun-glasses-high-poly-8d488f34171c4fde8d49400960bb5b69) by NaicheCrowhurst (https://sketchfab.com/NaicheCrowhurst) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
