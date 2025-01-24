@@ -1,11 +1,11 @@
 Model Information:
-* title:	Game Ready Sun Glasses High Poly
-* source:	https://sketchfab.com/3d-models/game-ready-sun-glasses-high-poly-8d488f34171c4fde8d49400960bb5b69
-* author:	NaicheCrowhurst (https://sketchfab.com/NaicheCrowhurst)
+* title:	Fire Chef 1.0
+* source:	https://sketchfab.com/3d-models/fire-chef-10-7355b5b00db943c3abbff2ccfbffd0d4
+* author:	kkovach_extra (https://sketchfab.com/kkovach_extra)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Game Ready Sun Glasses High Poly" (https://sketchfab.com/3d-models/game-ready-sun-glasses-high-poly-8d488f34171c4fde8d49400960bb5b69) by NaicheCrowhurst (https://sketchfab.com/NaicheCrowhurst) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Fire Chef 1.0" (https://sketchfab.com/3d-models/fire-chef-10-7355b5b00db943c3abbff2ccfbffd0d4) by kkovach_extra (https://sketchfab.com/kkovach_extra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
